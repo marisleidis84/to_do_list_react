@@ -7,11 +7,7 @@ body {
   background-color: white;
   width: 700px;
   height: 700px;
-}
-
-.App-header{
-display: flex;
-justify-content: center;
+  border-radius: 50px;
 }
 
 h3{
@@ -21,4 +17,19 @@ h3{
   font-family: 'Thasadith', sans-serif; 
   text-align: center;
 }
+
+#task{
+  width: 500px;
+}
+
+input{
+  width: 490px;
+  border-color: rgb(223, 212, 212) !important;
+}
+
+ul{
+  padding-left: 3.2em;
+}
+
+
 

@@ -1,6 +1,6 @@
-import './App.css';
 import './TodoList';
 import TodoList from './TodoList';
+import './App.css';
 
 function App() {
   return (
